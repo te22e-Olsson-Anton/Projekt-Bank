@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5560029c-b33d-43ea-ba7a-ada8e047134c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Projekt-Bank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Savings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
-    </list>
+    <list default="true" id="5560029c-b33d-43ea-ba7a-ada8e047134c" name="Changes" comment="gjort så man kan logga in som Admin eller Kund" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/te22e-Olsson-Anton/Projekt-Bank.git",
+    "accountId": "8aa30cff-9177-43d5-8eff-f9f7bc4a3f6d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -76,12 +68,31 @@
       <updated>1742461958475</updated>
       <workItem from="1742461959819" duration="1200000" />
       <workItem from="1742987788583" duration="1188000" />
-      <workItem from="1743025822981" duration="1582000" />
+      <workItem from="1743025822981" duration="2001000" />
     </task>
+    <task id="LOCAL−00001" summary="gjort så man kan logga in som Admin eller Kund">
+      <option name="closed" value="true" />
+      <created>1743027811402</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1743027811402</updated>
+    </task>
+    <task id="LOCAL−00002" summary="gjort så man kan logga in som Admin eller Kund">
+      <option name="closed" value="true" />
+      <created>1743027831882</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1743027831882</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="gjort så man kan logga in som Admin eller Kund" />
+    <option name="LAST_COMMIT_MESSAGE" value="gjort så man kan logga in som Admin eller Kund" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
