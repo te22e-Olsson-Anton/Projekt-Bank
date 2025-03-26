@@ -12,6 +12,7 @@ public class Main {
 
         boolean loggedIn = false;
 
+
         while (!loggedIn) {
             System.out.print("Ange användarnamn (eller 'exit' för att avsluta): ");
             String name = scanner.nextLine();
